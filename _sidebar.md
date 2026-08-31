@@ -1,0 +1,5 @@
+- [Home](/)
+- [Cosmology & Setting](cosmology.md)
+- [The Twelve Races](races.md)
+- [Magic & Machines](magic-and-machines.md)
+- [About / First Pulse](about.md)
