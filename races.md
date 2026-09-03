@@ -26,6 +26,16 @@ The six Humanoid races are near-immune to the Chimeravore Gene. Instead of trans
 - **Harrowyn** — sits in contrast to the Tinkaryn: slower, more enduring, with a Quiet Glow that shimmers at dusk and dawn, echoing the rhythm of their crops.
 - **Adamaryn** — an open-ended outlier; their lifespan isn't placed on the normal numeric scale at all, with genuine open-ended longevity (given proper maintenance) treated as a live possibility rather than settled fact. Their glow, Runic in character, is tied to the same ancestral Quiet Glow as everyone else's.
 
+## The glow, up close
+
+That baseline Quiet Glow splits into two different-looking things depending on which side of the divide you're on.
+
+Essenoids get **Corelight** — passive, always-on, impossible to hide. It runs off the same inner core tied to their soul, so it shifts with mood, health, however much essence they're carrying at the time. You can read an Essenoid at a glance whether they like it or not.
+
+Humanoids get **Weftlight** instead — it only flares up while they're actively Weaveworking, not sitting there all the time. And it looks completely different depending on the people doing the working: Elyrians' glow traces along the actual circuit like a schematic come to life; Sylvarians' spreads soft and diffuse, like light filtering through leaves; Durkarin's runs hot and sparking, forge-bright rather than steady; Tinkaryn's shifts color with whatever reagent they're using, so it looks unstable even when it's perfectly safe.
+
+Adamaryn break the pattern entirely — their body *is* the medium, so they glow passively like an Essenoid does, sitting structurally between both systems.
+
 ## Why the split matters
 
 The Essenoid/Humanoid divide isn't just biology — it shapes culture, politics, and conflict across Illucaris: quantity vs. quality approaches to life and lineage, nature vs. machine philosophies, and old tensions between peoples who transform and peoples who build. It's one of the central tensions the setting is built to explore, on every scale from personal relationships to continent-spanning history.

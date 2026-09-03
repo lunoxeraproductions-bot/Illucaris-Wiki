@@ -17,3 +17,9 @@ This is also the reason the setting's steampunk aesthetic isn't just flavor. A H
 ## Two answers to the same problem
 
 Zoom out, and the whole Essenoid/Humanoid divide is really two different answers to living in a world soaked in the Weave — one biological, one engineered — and most of the setting's deeper tension, culturally and politically, traces back to that split.
+
+## The Weave doesn't stop at Illucaris
+
+Here's the bigger picture: the Weave was never actually centered on this one planet. It runs through the whole universe, just unevenly — thick in some places, thin in others, the same way it pools and thins region to region here at home. Illucaris just happens to sit somewhere it runs thick enough to matter.
+
+The big channels connecting all of that together, running between star systems and further, are called Weave Currents — think of them as the trunk lines. Every ley line on Illucaris is really just the smallest, furthest-out branch of one of those Currents, tracing all the way back to something much bigger than the planet itself. That's not just trivia — it's the reason certain rituals only work at a true ley-line nexus and nowhere else: that spot isn't a local quirk, it's genuinely connected to something far away.

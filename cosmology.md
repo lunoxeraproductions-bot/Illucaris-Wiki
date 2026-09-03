@@ -1,29 +1,29 @@
 # Cosmology & Setting
 
-## Two suns, staggered
+## Two suns, one shared orbit
 
-Illucaris orbits under two suns, and they don't share the sky the way a single sun would.
+Illucaris has two suns, and they're not a "main sun" and a "backup" — they're a real binary pair, **Solara** and **Ithara**, locked in orbit around each other. Illucaris itself sits in a rare, stable pocket right between them. On paper that spot shouldn't hold — the gravity alone wants to slide the planet one way or the other — but the Weave (the world's ambient magic field) supplies just enough extra pull to keep it locked in place. The Primordials set that balance up once, way back at the world's creation. Nobody's out there steering the suns day to day.
 
-**Solara**, the primary sun, governs a 14-hour Solar Day. When Solara sets, **Ithara**, the smaller secondary sun, doesn't rise to replace it exactly — it opens a 10-hour Twilight Phase immediately after, a dimmer half-light before true dark. Days on Illucaris have a rhythm most worlds don't: full daylight, then a long amber twilight, then night.
+What that gets you: a real ~24-hour day, and no true black night, ever. There's always a sun's worth of light hitting the ground somewhere.
 
-That staggered cycle isn't ordinary orbital mechanics. In Illucaris cosmology, it's a permanent seam maintained since the First Dawn by two Primordial beings, Pyraxis and Luxarion, sustaining it as an ongoing act rather than something they set in motion once and left alone. It's treated in-world as proof that the old powers are still tending what they made, even in a system they otherwise rarely visit.
+The old rhythm still holds, it just makes more sense now. Solara dominates for roughly 14 hours — call it Charge — then Ithara's weaker light takes over for roughly 10 — Reveal. Think of it less as "the sun switches off" and more as "whoever's currently stronger wins the sky for a while."
 
-## The moon, and the hours it governs
+## The moon, and what's actually going on at night
 
-**Lunara**, the moon, governs the **Nox Hours** — and importantly, it isn't simply that the world goes dark. It's the direct touch of Lunara's shadow that destabilizes the Chimeravore Gene (see [Magic & Machines](magic-and-machines.md)) and thins the boundary of reality itself during those hours. Night on Illucaris is not the *absence* of something; it's the *presence* of something else.
+**Lunara** is just a moon. Ordinary rock, ordinary orbit, nothing spooky about how it moves. When it passes in front of a sun, the shadow it casts is a completely normal, fast-moving eclipse shadow — dull gray, gives you a real warning as it sweeps in.
 
-## The Weave and essence
+The magic doesn't come from the moon moving. It comes from something riding on top of that shadow — an old bit of leftover machinery from history, keyed to trigger wherever Lunara's shadow actually touches. Call it the Binding. Once it catches, it spreads on its own, way slower than the real shadow and nowhere near as evenly, and it looks nothing like an ordinary shadow either — deep violet-black instead of gray.
 
-Underlying all of it is **the Weave** — an ambient magical field that runs through the world. **Essence** is what happens when matter or energy absorbs enough of the Weave to become semi-magical: extractable, storable, portable, independent of where it came from. Think of the Weave as an ambient charge in the air, and essence as that charge captured in a battery.
-
-Everything from a Humanoid's enchanted machinery to an Essenoid's transformation draws on this same underlying system, expressed in very different ways depending on who — or what — is doing the drawing.
+The part that gets people: the sun can come back out overhead, fully clear, and the ground that already got caught still won't brighten back up. That's the actual Nox Hours — not the whole world going dark together, but pockets of it staying dark long after the sky's cleared.
 
 ## True Solar Eclipses
 
-Separate from the nightly Nox Hours is something far rarer: a **True Solar Eclipse**, when Lunara crosses both Solara and Ithara during the day. It's the largest seam event in Illucaris cosmology — and it has happened only **four times** in all recorded history.
+Four of these in all of recorded history. Same four names as always: the founding **First Eclipse** (the Eclipse War), **The Long Dark**, **The Silent Star**, and **The Waking Umbra** — recent enough that some living elders had grandparents who saw it.
 
-Each of the four has its own name and its own place in history: the founding **First Eclipse** (the legendary clash between the light-god Luxarion and the shadow-god Nyxarion), **The Long Dark**, **The Silent Star**, and **The Waking Umbra** — the most recent, within living memory; some elders alive today have grandparents who witnessed it.
+These aren't just a bigger version of an ordinary eclipse. Something about them goes past what astronomy alone explains — they're tangled up with the oldest gods in the setting, the ones from the founding myth. Which, fittingly, nobody actually agrees on: Luxarion's followers say he defeated and banished the shadow god Nyxarion; Nyxarion's followers say he chose to cloak the world himself, to protect it. Both sides genuinely believe their version, and since Nyxarion clearly still has followers and power today, "banished" doesn't hold up as the literal truth either way. Neither account is treated as correct — that's on purpose.
 
-Whether a fifth eclipse is "overdue" is a live, unresolved question in-world — scholars argue about it, nobody can prove it, and it's the kind of thing a story can pick up at any time.
+Whether a fifth eclipse is overdue is something nobody in-world can actually answer. It's a live question, not a scheduled event.
 
-Fittingly, even the *meaning* of that first eclipse is contested. Luxarion's faithful say he defeated and banished the shadow god Nyxarion. Nyxarion's faithful say he willingly cloaked the world to protect it. Since Nyxarion still has an active following and power today, "banished" clearly isn't the literal truth — and neither account is presented as objectively correct. Both are simply what each culture genuinely believes.
+## One to watch: the Binding might not hold forever
+
+Still an early, deliberately unresolved thread, but worth mentioning: there's a growing idea that the mechanism behind all of this — the Binding — isn't perfectly stable long-term. Weaker triggers catching when they shouldn't, recoveries that don't fully finish, more random flare-ups than there should be. Nothing's decided about where that goes. Just something sitting in the background for now.
